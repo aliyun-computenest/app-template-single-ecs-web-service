@@ -7,6 +7,7 @@
 
 ```shell
 $ pip install mkdocs # or pip3 install mkdocs
+$ pip install mkdocs-aliyun-computenest
 $ mkdocs serve # in root folder
 ```
 2）本地预览：本地在浏览器打开 [http://localhost:8000/](http://localhost:8000/) 。
